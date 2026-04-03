@@ -11,4 +11,4 @@ Java 21 · Spring Boot 4 · React 19 · PostgreSQL · REST APIs · JWT · SCSS
 → [Backend](https://github.com/N4D3RR/openclinic-be) · [Frontend](https://github.com/N4D3RR/openclinic-fe)
 
 ### Contact
-[LinkedIn](https://www.linkedin.com/in/nader-deghaili-76b761316/) · naderdeghaili@gmail.com
+[LinkedIn](https://www.linkedin.com/in/nader-deghaili-76b761316/) · [Mail](naderdeghaili@gmail.com)
