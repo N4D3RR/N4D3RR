@@ -1,6 +1,6 @@
 ## Hi, I'm Nader 👋
 
-Dentist and full-stack developer - I build software to solve the problems I face daily in clinical practice.
+Full-stack developer with dental studies background - I build software to solve the problems I face daily in clinical practice.
 
 ### Tech Stack
 Java 21 · Spring Boot 4 · React 19 · PostgreSQL · REST APIs · JWT · SCSS
